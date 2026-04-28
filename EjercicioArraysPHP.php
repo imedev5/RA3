@@ -12,6 +12,7 @@
 echo "<h3>Ejercicio 1</h3>";
 $d1 = array("name"=>"Sara", "surname"=>"Martinez", "age"=>23, "city"=>"Barcelona");
 
+
 foreach ($d1 as $s) {
     echo "$s <br>";
 }
